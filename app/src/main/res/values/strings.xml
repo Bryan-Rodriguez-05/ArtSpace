@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title1">La Gioconda</string>
+    <string name="artist1">Leonardo Da Vinci</string>
+    <string name="year1">1506</string>
+    <string name="title2">La Noche Estrellada</string>
+    <string name="artist2">Vicent Van Gogh</string>
+    <string name="year2">1889</string>
+    <string name="title3">La Ultima Cena</string>
+    <string name="year3">1498</string>
+</resources>
